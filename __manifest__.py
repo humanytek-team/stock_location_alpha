@@ -19,11 +19,13 @@
 ##############################################################################
 
 {
-    'name': 'Stock Location Alhpa',
+    'name': 'Stock Location Alpha',
     'version': '1.0',
     'author': 'Humanytek',
     'website': 'http://humanytek.com',
-    'depends': [],  # TODO [IMP]
+    'depends': [
+        'stock',
+    ],
     'data': [
-    ]
+    ],
 }

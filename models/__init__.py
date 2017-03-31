@@ -18,4 +18,4 @@
 #
 ##############################################################################
 
-from . import stock_location_alhpa
+from . import stock_location_alpha

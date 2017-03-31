@@ -1,3 +1,3 @@
-# Stock Location Alhpa
+# Stock Location Alpha
 
-TODO [IMP]
+Change posx, posy, posz to chars
